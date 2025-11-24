@@ -6,3 +6,6 @@ Implement your own `TokenStream.java` in the main/java/com/scanner/project folde
 That is the only file that you will be changing in this assignment. Make sure your code passes all the tests.
 
 Make sure to keep `package com.scanner.project` at the top of the files or ekse it will not work.
+
+Team:
+Jack 
