@@ -1,5 +1,6 @@
 package com.scanner.project;
 // TokenStream.java
+// Team members: Jack Yauri 
 
 // Implementation of the Scanner for JAY
 
@@ -243,5 +244,6 @@ public class TokenStream {
 		return isEof;
 	}
 }
+
 
 
